@@ -8,6 +8,7 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": "16.14.0",
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^16.0.1",
